@@ -1,0 +1,6 @@
+library(car)
+potato=(read.csv("potato_accessions.csv", row.names=1))
+model = lm (potato$landrace.2x+potato$landrace.4x ~ potato$starch.content+potato$total.glycoalkaloid, potato)
+model1 = lm (potato$landrace.2x+potato$landrace.4x ~ potato$mean.lesion+potato$flower.color+potato$Collection.Site+potato$habit++potato$Cultivation.Zone+potato$stolon.type+potato$circadian.average+potato$Elevation..MASL.)
+avPlots(model)
+avPlots(model1)
