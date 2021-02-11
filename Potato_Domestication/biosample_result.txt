@@ -1,0 +1,571 @@
+1: Plant sample from Solanum verrucosum
+Identifiers: BioSample: SAMN06564748; Sample name: STP_DL_01; SRA: SRS2051329
+Organism: Solanum verrucosum
+Attributes:
+    /description="STP_DL_01; PI 275260 verrucosum 2x, leaf tissue - genomic DNA sheared to 300bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 275260"
+    /development stage="juvenile"
+    /geographic location="Mexico: Pachuca, Real del Monte, in the woods above the town."
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 275260"
+Accession: SAMN06564748	ID: 6564748
+
+2: Plant sample from Solanum etuberosum
+Identifiers: BioSample: SAMN06564747; Sample name: STP_DJ_01; SRA: SRS2051330
+Organism: Solanum etuberosum
+Attributes:
+    /description="STP_DJ_01; PI 558288 etuberosum 2x, leaf tissue - genomic DNA sheared to 300bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 558288"
+    /development stage="juvenile"
+    /geographic location="Chile: Colchagua. Ca. 3 km (by air) SSE of Sierras de Bellavista, by streamside, in quebrada Las Aletillas."
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 558288"
+Accession: SAMN06564747	ID: 6564747
+
+3: Plant sample from Solanum jamesii
+Identifiers: BioSample: SAMN06564746; Sample name: STP_DI_01; SRA: SRS2051331
+Organism: Solanum jamesii
+Attributes:
+    /description="STP_DI_01; PI 458424 jamesii 2x, leaf tissue - genomic DNA sheared to 300bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 458424"
+    /development stage="juvenile"
+    /geographic location="Mexico: Catron. 9.8 km NE of Aragon, 1.6 km SW of Continental Divide."
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 458424"
+Accession: SAMN06564746	ID: 6564746
+
+4: Plant sample from Solanum ehrenbergii
+Identifiers: BioSample: SAMN06564745; Sample name: STP_DH_01; SRA: SRS2051332
+Organism: Solanum ehrenbergii
+Attributes:
+    /description="STP_DH_01; PI 275216 ehrenbergii 2x, leaf tissue - genomic DNA sheared to 300bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 275216"
+    /development stage="juvenile"
+    /geographic location="Mexico: San Juan del Rio-Queretaro road, 17 miles before Bernal, Cerro Galeras, E of the road."
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 275216"
+Accession: SAMN06564745	ID: 6564745
+
+5: Plant sample from Solanum chomatophilum
+Identifiers: BioSample: SAMN06564744; Sample name: STP_DG_01; SRA: SRS2051333
+Organism: Solanum chomatophilum
+Attributes:
+    /description="STP_DG_01; PI 365339 chomatophilum 2x, leaf tissue - genomic DNA sheared to 300bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 365339"
+    /development stage="juvenile"
+    /geographic location="Peru: Cerro Huishca, enroute to Paucartambo."
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 365339"
+Accession: SAMN06564744	ID: 6564744
+
+6: Plant sample from Solanum commersonii
+Identifiers: BioSample: SAMN06564712; Sample name: PDP_BC; SRA: SRS2051368
+Organism: Solanum commersonii
+Attributes:
+    /description="PDP_BC; PI 558050, commersonii, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 558050"
+    /development stage="juvenile"
+    /geographic location="Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 558050"
+Accession: SAMN06564712	ID: 6564712
+
+7: Plant sample from Solanum megistacrolobum
+Identifiers: BioSample: SAMN06564711; Sample name: PDP_BB; SRA: SRS2051369
+Organism: Solanum megistacrolobum
+Attributes:
+    /description="PDP_BB; PI 546000, boliviense - megistracrolobum, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 546000"
+    /development stage="juvenile"
+    /geographic location="Bolivia: Prov. Azurduy, Chuquisaca, Bolivia"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 546000"
+Accession: SAMN06564711	ID: 6564711
+
+8: Plant sample from Solanum leptophyes
+Identifiers: BioSample: SAMN06564710; Sample name: PDP_BA; SRA: SRS2051370
+Organism: Solanum leptophyes
+Attributes:
+    /description="PDP_BA; PI 545987, brevicaule - leptophyes, 2x - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 545987"
+    /development stage="juvenile"
+    /geographic location="Bolivia: Prov. Ibanes near Sacaca, Potosi area, Bolivia"
+    /tissue="immature whole leaf"
+    /subgroup="brevicaule spp complex"
+    /sample_ID="PI 545987"
+Accession: SAMN06564710	ID: 6564710
+
+9: Plant sample from Solanum boliviense
+Identifiers: BioSample: SAMN06564709; Sample name: PDP_AZ; SRA: SRS2051371
+Organism: Solanum boliviense
+Attributes:
+    /description="PDP_AZ; PI 545964, boliviense, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 545964"
+    /development stage="juvenile"
+    /geographic location="Bolivia: Near Potosi, Bolivia"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 545964"
+Accession: SAMN06564709	ID: 6564709
+
+10: Plant sample from Solanum kurtzianum
+Identifiers: BioSample: SAMN06564708; Sample name: PDP_AY; SRA: SRS2051372
+Organism: Solanum kurtzianum
+Attributes:
+    /description="PDP_AY; PI 498359, kurtzianum, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 498359"
+    /development stage="juvenile"
+    /geographic location="Argentina: Quebrada Antecristo, San Juan area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 498359"
+Accession: SAMN06564708	ID: 6564708
+
+11: Plant sample from Solanum brevicaule
+Identifiers: BioSample: SAMN06564707; Sample name: PDP_AX; SRA: SRS2051373
+Organism: Solanum brevicaule
+Attributes:
+    /description="PDP_AX; PI 498112, brevicaule - brevicaule, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 498112"
+    /development stage="juvenile"
+    /geographic location="Bolivia: Chapare, Cochabamba area, Bolivia"
+    /tissue="immature whole leaf"
+    /subgroup="brevicaule spp complex"
+    /sample_ID="PI 498112"
+Accession: SAMN06564707	ID: 6564707
+
+12: Plant sample from Solanum sparsipilum
+Identifiers: BioSample: SAMN06564706; Sample name: PDP_AW; SRA: SRS2051374
+Organism: Solanum sparsipilum
+Attributes:
+    /description="PDP_AW; PI 473385, brevicaule - sparsipilum, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 473385"
+    /development stage="juvenile"
+    /geographic location="Peru: Pisac, Cusco area, Peru"
+    /tissue="immature whole leaf"
+    /subgroup="brevicaule spp complex"
+    /sample_ID="PI 473385"
+Accession: SAMN06564706	ID: 6564706
+
+13: Plant sample from Solanum vernei
+Identifiers: BioSample: SAMN06564705; Sample name: PDP_AV; SRA: SRS2051375
+Organism: Solanum vernei
+Attributes:
+    /description="PDP_AV; PI 473305, vernei, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 473305"
+    /development stage="juvenile"
+    /geographic location="Argentina: Piscuno, Jujuy area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 473305"
+Accession: SAMN06564705	ID: 6564705
+
+14: Plant sample from Solanum gourlayi
+Identifiers: BioSample: SAMN06564704; Sample name: PDP_AU; SRA: SRS2051376
+Organism: Solanum gourlayi
+Attributes:
+    /description="PDP_AU; PI 473065, brevicaule - gourlayi, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 473065"
+    /development stage="juvenile"
+    /geographic location="Argentina: El Rodeo, Salta area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="brevicaule spp complex"
+    /sample_ID="PI 473065"
+Accession: SAMN06564704	ID: 6564704
+
+15: Plant sample from Solanum spegazzinii
+Identifiers: BioSample: SAMN06564703; Sample name: PDP_AT; SRA: SRS2051377
+Organism: Solanum spegazzinii
+Attributes:
+    /description="PDP_AT; PI 472978, brevicaule - spegazzinii, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 472978"
+    /development stage="juvenile"
+    /geographic location="Argentina: El Potrero, Salta area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="brevicaule spp complex"
+    /sample_ID="PI 472978"
+Accession: SAMN06564703	ID: 6564703
+
+16: Plant sample from Solanum okadae
+Identifiers: BioSample: SAMN06564702; Sample name: PDP_AS; SRA: SRS2051378
+Organism: Solanum okadae
+Attributes:
+    /description="PDP_AS; PI 458368, okadae, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 458368"
+    /development stage="juvenile"
+    /geographic location="Argentina: Cuesta del Obispo, Salta area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 458368"
+Accession: SAMN06564702	ID: 6564702
+
+17: Plant sample from Solanum berthaultii
+Identifiers: BioSample: SAMN06564701; Sample name: PDP_AR; SRA: SRS2051379
+Organism: Solanum berthaultii
+Attributes:
+    /description="PDP_AR; PI 458365, berthaultii, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 458365"
+    /development stage="juvenile"
+    /geographic location="Argentina: Quebrada de la Soledad, Salta area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 458365"
+Accession: SAMN06564701	ID: 6564701
+
+18: Plant sample from Solanum microdontum
+Identifiers: BioSample: SAMN06564700; Sample name: PDP_AQ; SRA: SRS2051380
+Organism: Solanum microdontum
+Attributes:
+    /description="PDP_AQ; PI 458355, microdontum, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 458355"
+    /development stage="juvenile"
+    /geographic location="Argentina: El Durazno, Jujuy area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 458355"
+Accession: SAMN06564700	ID: 6564700
+
+19: Plant sample from Solanum infundibuliforme
+Identifiers: BioSample: SAMN06564699; Sample name: PDP_AP; SRA: SRS2051381
+Organism: Solanum infundibuliforme
+Attributes:
+    /description="PDP_AP; PI 458324, infundibuliforme, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 458324"
+    /development stage="juvenile"
+    /geographic location="Argentina: Quebrada de Sepulturas, Jujuy area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 458324"
+Accession: SAMN06564699	ID: 6564699
+
+20: Plant sample from Solanum raphanifolium
+Identifiers: BioSample: SAMN06564696; Sample name: PDP_AM; SRA: SRS2051384
+Organism: Solanum raphanifolium
+Attributes:
+    /description="PDP_AM; PI 296126, raphanifolium, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 296126"
+    /development stage="juvenile"
+    /geographic location="Peru: Sacsahuaman, Cusco area, Peru"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 296126"
+Accession: SAMN06564696	ID: 6564696
+
+21: Plant sample from Solanum chacoense
+Identifiers: BioSample: SAMN06564694; Sample name: PDP_AK; SRA: SRS2051388
+Organism: Solanum chacoense
+Attributes:
+    /description="PDP_AK; PI 275139, chacoense, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 275139"
+    /development stage="juvenile"
+    /geographic location="Argentina: Between Chicoana and Escoipe, Salta area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 275139"
+Accession: SAMN06564694	ID: 6564694
+
+22: Plant sample from Solanum medians
+Identifiers: BioSample: SAMN06564693; Sample name: PDP_AJ; SRA: SRS2051386
+Organism: Solanum medians
+Attributes:
+    /description="PDP_AJ; PI 265872, medians, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 265872"
+    /development stage="juvenile"
+    /geographic location="Peru: Canta, Lima area, Peru"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 265872"
+Accession: SAMN06564693	ID: 6564693
+
+23: Plant sample from Solanum candolleanum
+Identifiers: BioSample: SAMN06564692; Sample name: PDP_AI; SRA: SRS2051387
+Organism: Solanum candolleanum
+Attributes:
+    /description="PDP_AI; PI 265863, candolleanum - bukasovii, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 265863"
+    /development stage="juvenile"
+    /geographic location="Peru: Puno, Peru"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 265863"
+Accession: SAMN06564692	ID: 6564692
+
+24: Plant sample from Solanum candolleanum
+Identifiers: BioSample: SAMN06564686; Sample name: PDP_AC; SRA: SRS2051393
+Organism: Solanum candolleanum
+Attributes:
+    /description="PDP_AC; PI 210044, candolleanum - multidissectum, 2x, leaf tissue - genomic DNA sheared to 500bp"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 210044"
+    /development stage="juvenile"
+    /geographic location="Peru: Huancayo, Junin area, Peru"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 210044"
+Accession: SAMN06564686	ID: 6564686
+
+25: Plant sample from Solanum commersonii
+Identifiers: BioSample: SAMN06564669; Sample name: MatLo_BT; SRA: SRS2051413
+Organism: Solanum commersonii
+Attributes:
+    /description="MatLo_BT; S. commersonii, 558050, 4 week old plants, Immature Leaves"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 558050"
+    /development stage="juvenile"
+    /geographic location="Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 558050"
+Accession: SAMN06564669	ID: 6564669
+
+26: Plant sample from Solanum boliviense
+Identifiers: BioSample: SAMN06564667; Sample name: MatLo_BR; SRA: SRS2051415
+Organism: Solanum boliviense
+Attributes:
+    /description="MatLo_BR; S. boliviense, 546000, 4 week old plants, Immature Leaves"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 546000"
+    /development stage="juvenile"
+    /geographic location="Bolivia: Prov. Azurduy, Chuquisaca, Bolivia"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 546000"
+Accession: SAMN06564667	ID: 6564667
+
+27: Plant sample from Solanum leptophyes
+Identifiers: BioSample: SAMN06564666; Sample name: MatLo_BQ; SRA: SRS2051416
+Organism: Solanum leptophyes
+Attributes:
+    /description="MatLo_BQ; S. brevicaule, 545987, 4 week old plants, Immature Leaves"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 545987"
+    /development stage="juvenile"
+    /geographic location="Bolivia: Prov. Ibanes near Sacaca, Potosi area, Bolivia"
+    /tissue="immature whole leaf"
+    /subgroup="brevicaule spp complex"
+    /sample_ID="PI 545987"
+Accession: SAMN06564666	ID: 6564666
+
+28: Plant sample from Solanum boliviense
+Identifiers: BioSample: SAMN06564665; Sample name: MatLo_BP; SRA: SRS2051417
+Organism: Solanum boliviense
+Attributes:
+    /description="MatLo_BP; S. boliviense, 545964, 4 week old plants, Immature Leaves"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 545964"
+    /development stage="juvenile"
+    /geographic location="Bolivia: Near Potosi, Bolivia"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 545964"
+Accession: SAMN06564665	ID: 6564665
+
+29: Plant sample from Solanum kurtzianum
+Identifiers: BioSample: SAMN06564664; Sample name: MatLo_BO; SRA: SRS2051418
+Organism: Solanum kurtzianum
+Attributes:
+    /description="MatLo_BO; S. kurtzianum, 498359, 4 week old plants, Immature Leaves"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 498359"
+    /development stage="juvenile"
+    /geographic location="Argentina: Quebrada Antecristo, San Juan area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 498359"
+Accession: SAMN06564664	ID: 6564664
+
+30: Plant sample from Solanum sparsipilum
+Identifiers: BioSample: SAMN06564663; Sample name: MatLo_BN; SRA: SRS2051419
+Organism: Solanum sparsipilum
+Attributes:
+    /description="MatLo_BN; S. brevicaule, 473385, 4 week old plants, Immature Leaves"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 473385"
+    /development stage="juvenile"
+    /geographic location="Peru: Pisac, Cusco area, Peru"
+    /tissue="immature whole leaf"
+    /subgroup="brevicaule spp complex"
+    /sample_ID="PI 473385"
+Accession: SAMN06564663	ID: 6564663
+
+31: Plant sample from Solanum vernei
+Identifiers: BioSample: SAMN06564662; Sample name: MatLo_BM; SRA: SRS2051420
+Organism: Solanum vernei
+Attributes:
+    /description="MatLo_BM; S. vernei, 473305, 4 week old plants, Immature Leaves"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 473305"
+    /development stage="juvenile"
+    /geographic location="Argentina: Piscuno, Jujuy area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 473305"
+Accession: SAMN06564662	ID: 6564662
+
+32: Plant sample from Solanum gourlayi
+Identifiers: BioSample: SAMN06564661; Sample name: MatLo_BL; SRA: SRS2051421
+Organism: Solanum gourlayi
+Attributes:
+    /description="MatLo_BL; S. brevicaule, 473065, 4 week old plants, Immature Leaves"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 473065"
+    /development stage="juvenile"
+    /geographic location="Argentina: El Rodeo, Salta area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="brevicaule spp complex"
+    /sample_ID="PI 473065"
+Accession: SAMN06564661	ID: 6564661
+
+33: Plant sample from Solanum okadae
+Identifiers: BioSample: SAMN06564660; Sample name: MatLo_BK; SRA: SRS2051423
+Organism: Solanum okadae
+Attributes:
+    /description="MatLo_BK; S. okadae, 458368, 4 week old plants, Immature Leaves"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 458368"
+    /development stage="juvenile"
+    /geographic location="Argentina: Cuesta del Obispo, Salta area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 458368"
+Accession: SAMN06564660	ID: 6564660
+
+34: Plant sample from Solanum microdontum
+Identifiers: BioSample: SAMN06564659; Sample name: MatLo_BJ; SRA: SRS2051422
+Organism: Solanum microdontum
+Attributes:
+    /description="MatLo_BJ; S. microdontum, 458355, 4 week old plants, Immature Leaves"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 458355"
+    /development stage="juvenile"
+    /geographic location="Argentina: El Durazno, Jujuy area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 458355"
+Accession: SAMN06564659	ID: 6564659
+
+35: Plant sample from Solanum raphanifolium
+Identifiers: BioSample: SAMN06564654; Sample name: MatLo_BE; SRA: SRS2051428
+Organism: Solanum raphanifolium
+Attributes:
+    /description="MatLo_BE; S. raphanifolium, 296126, 4 week old plants, Immature Leaves"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 296126"
+    /development stage="juvenile"
+    /geographic location="Peru: Sacsahuaman, Cusco area, Peru"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 296126"
+Accession: SAMN06564654	ID: 6564654
+
+36: Plant sample from Solanum chacoense
+Identifiers: BioSample: SAMN06564652; Sample name: MatLo_BC; SRA: SRS2051430
+Organism: Solanum chacoense
+Attributes:
+    /description="MatLo_BC; S. chacoense, 275139, 4 week old plants, Immature Leaves"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 275139"
+    /development stage="juvenile"
+    /geographic location="Argentina: Between Chicoana and Escoipe, Salta area, Argentina"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 275139"
+Accession: SAMN06564652	ID: 6564652
+
+37: Plant sample from Solanum candolleanum
+Identifiers: BioSample: SAMN06564651; Sample name: MatLo_BB; SRA: SRS2051431
+Organism: Solanum candolleanum
+Attributes:
+    /description="MatLo_BB; S. candolleanum, 265863, 4 week old plants, Immature Leaves"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 265863"
+    /development stage="juvenile"
+    /geographic location="Peru: Puno, Peru"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 265863"
+Accession: SAMN06564651	ID: 6564651
+
+38: Plant sample from Solanum candolleanum
+Identifiers: BioSample: SAMN06564640; Sample name: MatLo_AQ; SRA: SRS2051442
+Organism: Solanum candolleanum
+Attributes:
+    /description="MatLo_AQ; S. candolleanum, 210044, 4 week old plants, Immature Leaves"
+    /isolate="NA"
+    /cultivar="NA"
+    /ecotype="PI 210044"
+    /development stage="juvenile"
+    /geographic location="Peru: Huancayo, Junin area, Peru"
+    /tissue="immature whole leaf"
+    /subgroup="NA"
+    /sample_ID="PI 210044"
+Accession: SAMN06564640	ID: 6564640
+
+
